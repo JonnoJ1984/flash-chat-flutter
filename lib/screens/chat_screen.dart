@@ -1,5 +1,6 @@
-import 'package:flash_chat/constants.dart';
 import 'package:flutter/material.dart';
+
+import 'file:///C:/Users/jonat/AndroidStudioProjects/flash-chat-flutter/flash-chat-flutter/lib/components/constants.dart';
 
 class ChatScreen extends StatefulWidget {
   static const String id = 'chat_screen';

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937188356496",
+    "firebase_url": "https://aweh--chat.firebaseio.com",
+    "project_id": "aweh--chat",
+    "storage_bucket": "aweh--chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937188356496:android:9f63c0e866496450014315",
+        "android_client_info": {
+          "package_name": "com.jonathanjacka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937188356496-f59e8g49et6c098kd38rjl29s9isgcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrdVxvkEcaX8fkfMqFCVUc8KHaFOSXMp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937188356496-f59e8g49et6c098kd38rjl29s9isgcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
